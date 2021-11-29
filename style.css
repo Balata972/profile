@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+body {
+  background-color: rgb(33, 31, 77);
+  font-family: 'Cedarville Cursive display';
+  color: rgb(8, 6, 44);
+  font-size: 20px;
+  line-height: 25px;
+
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin: 40px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0px 10px 30px rgba (0.1);
+  border-radius: 25px;
+}
+
+.container {
+  width: 900px; /* Définit la largeur */
+  height: 400px;
+  margin: 0 auto; /* Définit automatiquement les marges à gauche/droite */
+}
+
+h1{
+  color: rgb(241, 133, 9);
+}
+
+.list-inline{
+  list-style: none;
+}
